@@ -184,3 +184,7 @@ delay(1000);
 - se detiene el reproductor
 - se muestra el mensaje por el puerto serie
 - se espera 1 segundo antes de repetir el proceso en el `loop()`
+
+# 3. Fotografía del circuito montado
+
+![Circuito práctica 7 parte 1](images/FotoCircuito.png)
